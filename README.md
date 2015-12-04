@@ -1,2 +1,2 @@
 # ReqMap
-IP address aggregator and exporter
+ This Chrome extension collects IP addresses from browser connections, geocodes them, and exports the results in CSV format.
